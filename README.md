@@ -121,7 +121,7 @@
 
 - 👩‍💻 **Sinh viên:** Huỳnh Như Ý – HTTT2211015  
 - 📞 0982 147 252  
-- 📧 hnyhttt2211015@student.ctuet.edu.vn  
+- 📧 huynhnhuy.tech@gmail.com
 - 🔗 GitHub: [https://github.com/NhuYtech](https://github.com/NhuYtech)  
 
 ---
